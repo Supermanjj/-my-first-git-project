@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("我的第四个 Git 版本！\n");
-    printf("网页端可以提交代码！\n");
+    printf("test\n");
+    printf("test2\n");
     return 0;
 }
