@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("我的第一个 C 语言程序！\n");
+    printf("Hello Git & GitHub!\n");
+    return 0;
+}
